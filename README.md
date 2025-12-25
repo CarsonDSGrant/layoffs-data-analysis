@@ -1,14 +1,14 @@
 # Layoffs Data Analysis Project
 
-## 📊Project Overview
+## Project Overview
 End-to-end SQL data cleaning and analysis of global layoffs data from Kaggle. This project demonstrates comprehensive data wrangling, exploratory analysis, and business intelligence reporting.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - MySQL / PostgreSQL
 - Advanced SQL (CTEs, Window Functions, Self-Joins)
 - Data Cleaning & Validation Techniques
 
-## 📁 Project Structure
+## Project Structure
 - **`data_cleaning.sql`** - Complete pipeline from raw data to analysis-ready dataset
 - **`data_analysis.sql`** - Exploratory analysis and business insights
 - **`sample_data/`** - Sample dataset for demonstration
